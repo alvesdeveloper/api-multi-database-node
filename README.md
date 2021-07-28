@@ -20,7 +20,8 @@ Depois de clonar o projeto, você precisará seguir as etapas abaixo:
 
 
 
-Obs.:
+
+#Obs.:
 
 1 - Só existem dois clientes válidos: macapá ou varejão.
 
